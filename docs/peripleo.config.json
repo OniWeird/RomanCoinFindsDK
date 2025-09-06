@@ -4,11 +4,17 @@
   "data": [
     {
       "format": "LINKED_PLACES",
-      "src": "./data/Peripleo_Data_0609.json"
+      "src": "./data/Peripleo_Data_06092.json"
     }
   ],
   "facets": [
-  
+      { "name": "Authority", "path": ["properties", "autoritet"] },
+      { "name": "Denomination", "path": ["properties", "denomination"] },
+      { "name": "Material", "path": ["properties", "materiale"] },
+      { "name": "Start date", "path": ["properties", "starttid"] },
+      { "name": "End date", "path": ["properties", "sluttid"] },
+      { "name": "Parish ID", "path": ["properties", "stednr"] },
+      { "name": "Place ID", "path": ["properties", "lokalitetsnr"] }    
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
