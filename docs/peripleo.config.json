@@ -8,7 +8,7 @@
     }
   ],
   "facets": [
-      { "name": "Authority", "path": ["properties", "autoritet"] },
+      { "name": "Authority", "path": ["properties", "period2"] },
       { "name": "Denomination", "path": ["properties", "denomination"] },
       { "name": "Material", "path": ["properties", "materiale"] },
       { "name": "Start date", "path": ["properties", "starttid"] },
