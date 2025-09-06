@@ -15,7 +15,7 @@
       { "name": "End date", "path": ["properties", "sluttid"] },
       { "name": "Parish ID", "path": ["properties", "stednr"] },
       { "name": "Find type", "path": ["properties", "sf_hoard"] },
-      { "name": "Hoard", "path": ["properties", "hoard_hame"] } 
+      { "name": "Hoard", "path": ["properties", "hoard_name"] } 
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
