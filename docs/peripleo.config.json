@@ -8,7 +8,13 @@
     }
   ],
   "facets": [
-    "type"
+     { "name": "Authority", "path": ["properties", "Autoritet"] },
+     { "name": "Denomination", "path": ["properties", "Denomination"] },
+     { "name": "Material", "path": ["properties", "Materiale"] },
+     { "name": "Starttid", "path": ["properties", "Starttid"] },
+     { "name": "Sluttid", "path": ["properties", "Sluttid"] },
+     { "name": "Stednr", "path": ["properties", "Stednr"] },
+     { "name": "SB nr", "path": ["properties", "Lokalitetsnr"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
