@@ -8,14 +8,14 @@
     }
   ],
   "facets": [
-      { "name": "Authority", "path": ["properties", "period2"] },
+      { "name": "Emperor", "path": ["properties", "period2"] },
       { "name": "Denomination", "path": ["properties", "denomination"] },
       { "name": "Material", "path": ["properties", "materiale"] },
       { "name": "Start date", "path": ["properties", "starttid"] },
       { "name": "End date", "path": ["properties", "sluttid"] },
       { "name": "Parish ID", "path": ["properties", "stednr"] },
       { "name": "Find type", "path": ["properties", "sf_hoard"] },
-      { "name": "Hoard", "path": ["properties", "hoard_name"] } 
+      { "name": "Hoard name", "path": ["properties", "hoard_name"] } 
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
