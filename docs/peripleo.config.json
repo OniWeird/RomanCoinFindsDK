@@ -13,16 +13,15 @@
       { "name": "Material", "path": ["properties", "materiale"] },
       { "name": "Start date", "path": ["properties", "starttid"] },
       { "name": "End date", "path": ["properties", "sluttid"] },
-      { "name": "Parish ID", "path": ["properties", "stednr"] },
-      { "name": "Find type", "path": ["properties", "sf_hoard"] },
-      { "name": "Hoard name", "path": ["properties", "hoard_name"] },
-      { "name": "Imitations", "path": ["properties", "imit"] },
       { "name": "Dynasty", "path": ["properties", "dynasty"] },
+      { "name": "Imitations", "path": ["properties", "imit"] },
       { "name": "Secondary gen", "path": ["properties", "sec.gen"] },
       { "name": "Secondary clip", "path": ["properties", "sec.clip"] },
       { "name": "Secondary rim", "path": ["properties", "sec.rim"] },
       { "name": "Secondary pierced", "path": ["properties", "sec.pierced"] },
-      { "name": "Secondary eyelet", "path": ["properties", "sec.eyelet"] }
+      { "name": "Secondary eyelet", "path": ["properties", "sec.eyelet"] },
+      { "name": "Find type", "path": ["properties", "sf_hoard"] },
+      { "name": "Hoard name", "path": ["properties", "hoard_name"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
