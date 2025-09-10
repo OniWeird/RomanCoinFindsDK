@@ -22,7 +22,7 @@
       { "name": "Secondary eyelet", "path": ["properties", "sec_eyelet"] },
       { "name": "Find type", "path": ["properties", "sf_hoard"] },
       { "name": "Hoard name", "path": ["properties", "hoard_name"] },
-    "properties"
+    "type"
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
