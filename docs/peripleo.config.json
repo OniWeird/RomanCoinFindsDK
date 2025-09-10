@@ -16,13 +16,13 @@
       { "name": "Parish ID", "path": ["properties", "stednr"] },
       { "name": "Find type", "path": ["properties", "sf_hoard"] },
       { "name": "Hoard name", "path": ["properties", "hoard_name"] },
-      { "name": "Find type", "path": ["properties", "imit"] },
-      { "name": "Find type", "path": ["properties", "dynasty"] },
-      { "name": "Find type", "path": ["properties", "sec.gen"] },
-      { "name": "Find type", "path": ["properties", "sec.clip"] },
-      { "name": "Find type", "path": ["properties", "sec.rim"] },
-      { "name": "Find type", "path": ["properties", "sec.pierced"] },
-      { "name": "Find type", "path": ["properties", "sec.eyelet"] }
+      { "name": "Imitations", "path": ["properties", "imit"] },
+      { "name": "Dynasty", "path": ["properties", "dynasty"] },
+      { "name": "Secondary treatment", "path": ["properties", "sec.gen"] },
+      { "name": "Secondary treatment", "path": ["properties", "sec.clip"] },
+      { "name": "Secondary treatment", "path": ["properties", "sec.rim"] },
+      { "name": "Secondary treatment", "path": ["properties", "sec.pierced"] },
+      { "name": "Secondary treatment", "path": ["properties", "sec.eyelet"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
