@@ -4,7 +4,7 @@
   "data": [
     {
       "format": "LINKED_PLACES",
-      "src": "./data/Peripleo_Data_12.json"
+      "src": "./data/Peripleo_Data_13.json"
     }
   ],
   "facets": [
@@ -21,6 +21,13 @@
       { "name": "Secondary pierced", "path": ["properties", "sec_pierced"] },
       { "name": "Secondary eyelet", "path": ["properties", "sec_eyelet"] },
       { "name": "Jewellery", "path": ["properties", "sec_jewel"] },
+      { "name": "Jewellery emperor", "path": ["properties", "jewel_emp"] },
+      { "name": "Jewellery date", "path": ["properties", "jewel_date"] },
+      { "name": "Jewellery dynasty", "path": ["properties", "jewel_dyn"] },
+      { "name": "Jewellery period", "path": ["properties", "jewel_per"] },
+      { "name": "Jewellery denomination", "path": ["properties", "jewel_denom"] },
+      { "name": "Jewellery material", "path": ["properties", "jewel_mat"] },
+      { "name": "Jewellery imitation", "path": ["properties", "jewel_imit"] },
       { "name": "Find type", "path": ["properties", "sf_hoard"] },
       { "name": "Hoard name", "path": ["properties", "hoard_name"] }
   ],
