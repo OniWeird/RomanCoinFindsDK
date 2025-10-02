@@ -4,7 +4,7 @@
   "data": [
     {
       "format": "LINKED_PLACES",
-      "src": "./data/Peripleo_Data_14.json"
+      "src": "./data/Peripleo_Data_15.json"
     }
   ],
   "facets": [
@@ -23,7 +23,7 @@
       { "name": "Secondary rim", "path": ["properties", "sec_rim"] },
       { "name": "Secondary pierced", "path": ["properties", "sec_pierced"] },
       { "name": "Secondary eyelet", "path": ["properties", "sec_eyelet"] },
-      { "name": "Jewellery", "path": ["properties", "sec_RW"] },
+      { "name": "Jewellery", "path": ["properties", "sec_rw"] },
       { "name": "Jewellery, type", "path": ["properties", "sec_jewel"] },
       { "name": "Jewellery, emperor", "path": ["properties", "jewel_emp"] },
       { "name": "Jewellery, dynasty", "path": ["properties", "jewel_dyn"] },
