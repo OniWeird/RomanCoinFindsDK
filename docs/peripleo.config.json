@@ -4,16 +4,19 @@
   "data": [
     {
       "format": "LINKED_PLACES",
-      "src": "./data/Peripleo_Data_13.json"
+      "src": "./data/Peripleo_Data_14.json"
     }
   ],
   "facets": [
       { "name": "Emperor", "path": ["properties", "period2"] },
+      { "name": "Dynasty", "path": ["properties", "dynasty"] },
       { "name": "Denomination", "path": ["properties", "denomination"] },
       { "name": "Material", "path": ["properties", "materiale"] },
       { "name": "Start date", "path": ["properties", "starttid"] },
       { "name": "End date", "path": ["properties", "sluttid"] },
-      { "name": "Dynasty", "path": ["properties", "dynasty"] },
+      { "name": "Period, 25", "path": ["properties", "per_25"] },
+      { "name": "Period, 50", "path": ["properties", "per_50"] },
+      { "name": "Period, 100", "path": ["properties", "per_100"] },
       { "name": "Imitations", "path": ["properties", "imit"] },
       { "name": "Secondary gen", "path": ["properties", "sec_gen"] },
       { "name": "Secondary clip", "path": ["properties", "sec_clip"] },
@@ -23,11 +26,13 @@
       { "name": "Jewellery", "path": ["properties", "sec_RW"] },
       { "name": "Jewellery, type", "path": ["properties", "sec_jewel"] },
       { "name": "Jewellery, emperor", "path": ["properties", "jewel_emp"] },
-      { "name": "Jewellery, date", "path": ["properties", "jewel_date"] },
       { "name": "Jewellery, dynasty", "path": ["properties", "jewel_dyn"] },
-      { "name": "Jewellery, period", "path": ["properties", "jewel_per"] },
       { "name": "Jewellery, denomination", "path": ["properties", "jewel_denom"] },
       { "name": "Jewellery, material", "path": ["properties", "jewel_mat"] },
+      { "name": "Jewellery, date", "path": ["properties", "jewel_date"] },
+      { "name": "Jewellery, period 25", "path": ["properties", "jewel_per25"] },
+      { "name": "Jewellery, period 50", "path": ["properties", "jewel_per50"] },
+      { "name": "Jewellery, period 100", "path": ["properties", "jewel_per100"] },
       { "name": "Jewellery, imitation", "path": ["properties", "jewel_imit"] },
       { "name": "Find type", "path": ["properties", "sf_hoard"] },
       { "name": "Hoard name", "path": ["properties", "hoard_name"] }
